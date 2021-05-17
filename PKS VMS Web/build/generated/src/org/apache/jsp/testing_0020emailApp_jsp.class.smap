@@ -1,0 +1,20 @@
+SMAP
+testing_0020emailApp_jsp.java
+JSP
+*S JSP
+*F
++ 0 testing emailApp.jsp
+testing emailApp.jsp
+*L
+1,17:56
+18,7:15
+24,2:73
+26,62:76
+87,18:138
+104,6:156
+110:162,3
+111,12:165
+123:177,3
+124,13:180
+136,6:193
+*E

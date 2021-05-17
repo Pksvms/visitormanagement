@@ -1,0 +1,16 @@
+SMAP
+emailApproved_jsp.java
+JSP
+*S JSP
+*F
++ 0 emailApproved.jsp
+emailApproved.jsp
+*L
+1,16:55
+17,7:14
+23,2:71
+25,62:74
+86,20:136
+106:156,3
+107,19:159
+*E
